@@ -1,0 +1,49 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "1000",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 900g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Chorizo",
+      "precio": 100,
+      "id": 6
+    },
+    {
+      "nombre": "Rib Eye",
+      "precio": 200,
+      "id": 9
+    },
+    {
+      "nombre": "Diego",
+      "precio": 19,
+      "id": 10
+    },
+    {
+      "nombre": "Pollo",
+      "precio": 200,
+      "id": 11
+    },
+    {
+      "nombre": "Agua",
+      "precio": "200",
+      "id": 12
+    },
+    {
+      "nombre": "Tacos",
+      "precio": 20,
+      "id": 13
+    }
+  ]
+}
